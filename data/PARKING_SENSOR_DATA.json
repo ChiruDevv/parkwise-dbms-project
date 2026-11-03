@@ -1,0 +1,7 @@
+[
+  { "sensor_id": "S001", "lot_id": 1, "slot_id": 1, "timestamp": "2026-10-25T09:00:00.000Z", "sensor_status": "Working", "vehicle_detected": true },
+  { "sensor_id": "S002", "lot_id": 1, "slot_id": 2, "timestamp": "2026-10-25T09:05:00.000Z", "sensor_status": "Working", "vehicle_detected": false },
+  { "sensor_id": "S003", "lot_id": 1, "slot_id": 3, "timestamp": "2026-10-25T09:10:00.000Z", "sensor_status": "Working", "vehicle_detected": true },
+  { "sensor_id": "S004", "lot_id": 2, "slot_id": 4, "timestamp": "2026-10-25T09:15:00.000Z", "sensor_status": "Working", "vehicle_detected": true },
+  { "sensor_id": "S005", "lot_id": 2, "slot_id": 5, "timestamp": "2026-10-25T09:20:00.000Z", "sensor_status": "Offline", "vehicle_detected": false }
+]
